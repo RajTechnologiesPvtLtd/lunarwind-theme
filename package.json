@@ -1,0 +1,28 @@
+{
+  "name": "lunarwind-theme",
+  "version": "1.0.0",
+  "description": "LunarWind Theme: A sleek and responsive Tailwind CSS and Alpine.js admin panel design for seamless web applications.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "authors": [
+    {
+      "name": "Bhargav Raviya",
+      "url": "https://github.com/bhargavraviya"
+    }
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14",
+    "vite": "^5.4.10"
+  },
+  "dependencies": {
+    "alpinejs": "^3.14.3"
+  }
+}
